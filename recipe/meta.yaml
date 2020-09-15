@@ -23,7 +23,7 @@ requirements:
     - setuptools
     - pip
     - pyxtensor
-    - python-qpot
+    - qpot
   run:
     - python
 
