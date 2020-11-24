@@ -23,6 +23,7 @@ requirements:
     - pip
     - pyxtensor
     - qpot
+    - gmattensor
   run:
     - python
 
